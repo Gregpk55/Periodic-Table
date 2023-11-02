@@ -19,6 +19,7 @@
 }
 
 .element:hover {
+  cursor: pointer;
   transform: scale(1.25, 1.25);
   z-index: 1;
 }
