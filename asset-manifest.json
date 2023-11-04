@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Periodic-Table/static/css/main.35c74c9c.css",
+    "main.js": "/Periodic-Table/static/js/main.00e1ed16.js",
+    "static/js/787.357bed1e.chunk.js": "/Periodic-Table/static/js/787.357bed1e.chunk.js",
+    "index.html": "/Periodic-Table/index.html",
+    "main.35c74c9c.css.map": "/Periodic-Table/static/css/main.35c74c9c.css.map",
+    "main.00e1ed16.js.map": "/Periodic-Table/static/js/main.00e1ed16.js.map",
+    "787.357bed1e.chunk.js.map": "/Periodic-Table/static/js/787.357bed1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35c74c9c.css",
+    "static/js/main.00e1ed16.js"
+  ]
+}
