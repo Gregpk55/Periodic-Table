@@ -17,7 +17,6 @@ function App() {
   return (
     <div className="App">
       <h1>Periodic Table of Elements</h1>
-      <small>with React + CSS Grid</small>
       <PeriodicTable onElementClick={handleElementClick} />
       {selectedElement && 
         <ElementCard element={selectedElement} onClose={handleClose} />}

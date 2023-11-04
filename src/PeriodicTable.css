@@ -10,12 +10,14 @@
 }
 
 .element {
-  background: white;
-  border: 1px solid #aaa;
+  background: rgb(232, 232, 232);
+  border: 2px solid #aaa;
+  border-radius: 3px;
   display: flex;
   position: relative;
   align-items: center;
   justify-content: center;
+  transition: transform 0.2s ease-in-out;
 }
 
 .element:hover {
